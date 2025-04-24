@@ -14,5 +14,6 @@ Mi piace lavorare con microcontrollori e dare vita a progetti che integrano sens
 *   💡 **Elaborazione Dati Embedded:** Acquisizione, filtraggio (es. Filtro di Kalman) e gestione dati su microcontrollore.
 
 Sono sempre alla ricerca di nuove sfide e opportunità per imparare nel mondo maker e dell'elettronica!
-Contatti e Supporto: 📞
+
+**Contatti e Supporto: 📞**
 Per qualsiasi domanda, problema o supporto relativo a questo progetto, puoi contattarmi tramite WhatsApp: http://wa.link/jsfvei
