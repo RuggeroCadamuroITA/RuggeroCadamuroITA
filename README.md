@@ -64,15 +64,6 @@ I personally design, build, and tune my drones, upgrading stock components to pr
 
 ---
 
-## 💻 Technical Expertise
-
-*   **Embedded Development:** C/C++ firmware for **Arduino** (AVR/ATmega32u4) and **ESP32** (ESP-IDF).
-*   **Hardware Integration:** Interfacing sensors, **VESC** brushless motor controllers, and actuators via **UART, I2C, SPI**.
-*   **Data Processing:** Implementation of **Kalman Filters** for sensor data stability and noise reduction.
-*   **CAD Design:** Proficient in 2D/3D modeling (Certified).
-
----
-
 ## 📜 Certifications
 
 *   🤖 **COMAU Robotics Certificate** (Industrial Programming)
