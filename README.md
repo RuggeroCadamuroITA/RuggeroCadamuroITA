@@ -1,18 +1,49 @@
-# Ciao! Sono Ruggero Cadamuro 👋
+# Ruggero Cadamuro
+### Embedded Systems Developer | Professional FPV Pilot | IoT Specialist
 
-Sono uno sviluppatore appassionato di **sistemi embedded** e **IoT**, con un focus sulla creazione di interfacce tra hardware diversi e sulla comunicazione wireless.
+Dynamic and skilled technical professional combining a strong background in **Embedded Systems and IoT development** with professional expertise in **FPV Drone Piloting**. Passionate about robotics, hardware customization, and wireless communication protocols.
 
-Mi piace lavorare con microcontrollori e dare vita a progetti che integrano sensori, attuatori e connettività. Ho esperienza specifica nell'interfacciamento con controller per motori brushless **VESC** tramite **UART** e nell'utilizzo di moduli **ESP** per la comunicazione e sviluppo di App.
+---
 
-## Competenze Principali:
+## 🚁 Professional FPV Pilot & Drone Engineering
+Certified drone pilot with extensive experience in building, tuning, and operating custom FPV (First Person View) unmanned aerial vehicles.
 
-*   💻 **Sviluppo Firmware per Microcontrollori:** Arduino (AVR/ATmega32u4), ESP32 (ESP-IDF/Arduino)
-*   ⚙️ **Linguaggi:** C/C++ per sistemi embedded
-*   🔌 **Protocolli di Comunicazione:** UART, I2C, SPI
-*   🔄 **Integrazione Hardware/Software:** Collegamento e gestione di sensori, moduli e controller esterni (come VESC).
-*   💡 **Elaborazione Dati Embedded:** Acquisizione, filtraggio (es. Filtro di Kalman) e gestione dati su microcontrollore.
+*   **Licensing:** EASA Open Category **A1/A3** Remote Pilot Certificate.
+*   **Flight Proficiency:** Skilled in freestyle and cinematic FPV flying, capable of operating in complex environments.
+*   **Hardware Customization (Custom Build):**
+    *   **Frame & Propulsion:** 220mm Rack Drone, High-performance 2205 2300KV Motors (3-4S) with 3-blade 5139.5 propellers.
+    *   **Flight Controller (Upgrade):** **SoloGood F405 V2 BLS 60A Stack** (ICM42688P Gyro) for superior stability, sensor integration, and power management.
+    *   **Navigation & Safety:** Integrated **HGLRC M100-5883 (M10 GPS + Compass)** for precision positioning, long-range capabilities, and GPS Rescue/Return-to-Home safety features.
+    *   **Video System:** 1200TVL PAL Camera paired with VT5804 VTX and **DMKR 008D PRO** FPV Goggles for low-latency analog video transmission.
 
-Sono sempre alla ricerca di nuove sfide e opportunità per imparare nel mondo maker e dell'elettronica!
+---
 
-**Contatti e Supporto: 📞**
-Per qualsiasi domanda, problema o supporto relativo a questo progetto, puoi contattarmi tramite WhatsApp: http://wa.link/jsfvei
+## 💻 Technical Skills & Embedded Development
+Specialized in interfacing diverse hardware components and developing firmware for microcontrollers.
+
+*   **Microcontrollers:** Arduino (AVR/ATmega32u4), ESP32 (ESP-IDF/Arduino).
+*   **Programming:** C/C++ for embedded systems.
+*   **Protocols:** UART, I2C, SPI.
+*   **Hardware Integration:** Expert in connecting **VESC** brushless motor controllers via UART and managing sensor data (including **Kalman Filtering** implementation).
+*   **IoT:** Development of wireless communication interfaces and mobile App integration.
+
+---
+
+## 📜 Certifications & Education
+*   **COMAU Robotics Certificate:** Certified in industrial robotics operation and programming.
+*   **AutoCAD Certificate:** Proficient in 2D/3D Computer-Aided Design.
+*   **English Certificate (B2):** Full professional proficiency (Upper Intermediate).
+*   **EASA A1/A3 Drone License:** European authorization for UAS operations.
+
+---
+
+## 🌍 Languages
+*   **Italian:** Native.
+*   **English:** B2 Level (Upper Intermediate).
+*   **Spanish:** Basic conversational skills.
+
+---
+
+### Contact & Support 📞
+For inquiries, collaborations, or support regarding my projects:
+👉 **WhatsApp:** [Click to Chat](http://wa.link/jsfvei)
