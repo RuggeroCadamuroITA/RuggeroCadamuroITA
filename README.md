@@ -1,11 +1,13 @@
 <h1 align="left">Hi there, I'm Ruggero Cadamuro 👋</h1>
 
-<h3 align="left">Embedded Systems Developer | Professional FPV Pilot | IoT Specialist</h3>
+<h3 align="left">Automation Student @ ISIS Malignani | Embedded Systems Developer | Professional FPV Pilot</h3>
 
 <p align="left">
-I am a passionate <b>Embedded Systems Developer</b> and <b>IoT Specialist</b> with a strong background in <b>Robotics</b> and <b>Hardware Integration</b>. I specialize in developing firmware for microcontrollers (ESP32, Arduino) using <b>C/C++</b>, implementing <b>Kalman Filters</b>, and managing complex communication protocols (UART, I2C, SPI) for motor controllers (VESC) and sensors.
+I am currently in my final year as an <b>Automation Student</b> at the <b>ISIS Arturo Malignani Institute in Udine</b>. My academic focus and personal passion lie at the intersection of industrial automation, robotics, and embedded systems.
 <br><br>
-Beyond coding, I am a <b>Professional FPV Drone Pilot</b> (EASA A1/A3 Licensed) and engineer. I design, build, and tune high-performance UAVs for long-range and freestyle applications, customizing hardware and flight stacks for optimal precision.
+As an <b>Embedded Systems Developer</b> and <b>IoT Specialist</b>, I specialize in developing firmware for microcontrollers (ESP32, Arduino) using <b>C/C++</b>, implementing <b>Kalman Filters</b>, and managing complex communication protocols (UART, I2C, SPI) for motor controllers (VESC) and sensors. I am also proficient in <b>Industrial Automation</b>, specifically in programming <b>Siemens PLCs</b> using <b>KOP (LAD) language</b>.
+<br><br>
+Beyond coding, I am a <b>Professional FPV Drone Pilot</b> (EASA A1/A3 Licensed). I design, build, and tune high-performance UAVs, using professional gear like the <b>RadioMaster Pocket</b> with <b>ExpressLRS (ELRS) 2.4GHz</b> for ultimate link reliability.
 <br><br>
 My work has been recognized internationally: I am a <b>two-time national winner</b> at the FAST scientific competition, selected to represent Italy at <b>Regeneron ISEF (Los Angeles)</b> and <b>IGO (London)</b>, and a recipient of the <b>European Commission Award</b> for scientific excellence.
 </p>
@@ -17,17 +19,11 @@ My work has been recognized internationally: I am a <b>two-time national winner<
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>&nbsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>&nbsp;
   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>&nbsp;
+  <a href="https://www.siemens.com/tia-portal" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Siemens-logo.svg" alt="siemens" width="60" height="40"/> </a>&nbsp;
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp;
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>&nbsp;
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp;
-  <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>&nbsp;
-  <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>&nbsp;
-  <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>&nbsp;
-  <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>&nbsp;
-  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>&nbsp;
-  <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>&nbsp;
-  <a href="https://ifttt.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a>&nbsp;
-  <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+  <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
 </p>
 
 ---
@@ -46,24 +42,25 @@ My work has been recognized internationally: I am a <b>two-time national winner<
 ## 🚁 Professional FPV Pilot & Engineering
 
 Certified pilot (EASA A1/A3) specializing in **Long Range & Freestyle**.
-I personally design, build, and tune my drones, utilizing the **RadioMaster Pocket** with **ExpressLRS (ELRS) 2.4GHz** for high-performance, low-latency control.
+I personally design, build, and tune my drones, utilizing the **RadioMaster Pocket** with **ExpressLRS (ELRS) 2.4GHz** for high-performance control.
 
 **My Setup & Custom 5" Rack Build:**
 
 | Component | Specification |
 | :--- | :--- |
 | **Radio Controller** | **RadioMaster Pocket** |
-| **Control Link** | **ELRS 2.4GHz** (High Refresh Rate) |
+| **Control Link** | **ELRS 2.4GHz** (Module integration) |
 | **FC Stack (Upgrade)** | **SoloGood F405 V2 BLS 60A** (ICM42688P Gyro) |
 | **Motors** | 2205 2300KV (3-4S) |
-| **Propulsion** | 3-blade 5139.5 Propellers |
 | **Navigation** | **HGLRC M100-5883** (M10 GPS + Compass) |
 | **Video System** | 1200TVL PAL Cam + VT5804 VTX + **DMKR 008D PRO** Goggles |
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Education
 
+*   🎓 **Automation Specialization** - ISIS Arturo Malignani, Udine (Final Year)
+*   🏭 **Siemens PLC Programming** - Expert in **KOP (LAD)** Language
 *   🤖 **COMAU Robotics Certificate** (Industrial Programming)
 *   📐 **AutoCAD Certificate** (2D/3D Design)
 *   🚁 **EASA A1/A3 Drone License** (Open Category)
