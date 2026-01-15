@@ -32,9 +32,6 @@ My work has been recognized internationally: I am a <b>two-time national winner<
 
 ---
 
-<!-- FOTO PROFILO (Opzionale): Se vuoi mettere una foto a destra in futuro, usa questo codice: -->
-<!-- <img src="tua_foto.jpg" align="right" width="150" style="border-radius: 15px; margin-left: 20px;" alt="Ruggero Profile"> -->
-
 ## 🏆 International Scientific Awards
 
 | Year | Competition | Project | Achievement |
@@ -49,18 +46,19 @@ My work has been recognized internationally: I am a <b>two-time national winner<
 ## 🚁 Professional FPV Pilot & Engineering
 
 Certified pilot (EASA A1/A3) specializing in **Long Range & Freestyle**.
-I personally design, build, and tune my drones, upgrading stock components to professional standards.
+I personally design, build, and tune my drones, utilizing the **RadioMaster Pocket** with **ExpressLRS (ELRS) 2.4GHz** for high-performance, low-latency control.
 
-**My Custom 5" Rack Build:**
+**My Setup & Custom 5" Rack Build:**
 
 | Component | Specification |
 | :--- | :--- |
+| **Radio Controller** | **RadioMaster Pocket** |
+| **Control Link** | **ELRS 2.4GHz** (High Refresh Rate) |
 | **FC Stack (Upgrade)** | **SoloGood F405 V2 BLS 60A** (ICM42688P Gyro) |
 | **Motors** | 2205 2300KV (3-4S) |
 | **Propulsion** | 3-blade 5139.5 Propellers |
 | **Navigation** | **HGLRC M100-5883** (M10 GPS + Compass) |
 | **Video System** | 1200TVL PAL Cam + VT5804 VTX + **DMKR 008D PRO** Goggles |
-| **Protocols** | ELRS / UART integration |
 
 ---
 
