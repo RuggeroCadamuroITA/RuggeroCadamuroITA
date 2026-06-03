@@ -34,15 +34,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuggeroCadamuroITA&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RuggeroCadamuroITA&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
